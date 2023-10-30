@@ -1,4 +1,5 @@
-## Hi I'm Janis and I recently graduaated with my full stack web development degree.
+## Hi I'm Janis.
+A recent full stack web development graduate.
 
 <!--
 **smilesanzu/smilesanzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
